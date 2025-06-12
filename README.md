@@ -25,7 +25,7 @@ EmotionRecognitionProject/
 Some files are too large to upload directly to GitHub. You can download them from Google Drive and place them in the project folder.
 
 -  [RAVDESS Audio Dataset](https://drive.google.com/drive/folders/1Hxq_blmHjSOcylV-ELaA_YtD8UDvNqcy?usp=drive_link)
--  [FER-2013 CSV Dataset](https://drive.google.com/file/d/1hHfIl5PFYmac9iMULE3jAbclE_YcWabe/view?usp=drive_link))
+-  [FER-2013 CSV Dataset](https://drive.google.com/file/d/1hHfIl5PFYmac9iMULE3jAbclE_YcWabe/view?usp=drive_link)
 -  [Facial Emotion Model (emotion_recognition_model.h5)](https://drive.google.com/file/d/1eyCUsg4sOqxGQDYpXrEaoDrIiFI4-sHC/view?usp=drive_link)
 
 >  After downloading, place the files in the root folder as shown in the project structure.
